@@ -2,5 +2,6 @@ def multiply(a, b):
     return a * b
 
 
-
-multiply(2, 3)
+a = int(input("enter a"))
+b = int(input("enter b"))
+print(multiply(a,b))
