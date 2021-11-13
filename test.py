@@ -11,6 +11,7 @@ while True:
             b = int(input("enter b"))
             print(multiply(a, b))
             print(divide(a, b))
+            print("ALL DONE")
             break
     except ValueError:
         print("Please enter the number")
