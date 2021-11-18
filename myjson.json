@@ -1,0 +1,21 @@
+[
+    {
+        "name": "anton",
+        "surname": "Voroniuk",
+        "age": "28",
+        "birthdate": "1993.03.12"
+    },
+        {
+        "name": "Elena",
+        "surname": "Voroniuk",
+        "age": "30",
+        "birthdate": "1991.07.02"
+    },
+        {
+        "name": "Alexandr",
+        "surname": "Voroniuk",
+        "age": "0",
+        "birthdate": "2021.08.13"
+    }
+
+]
